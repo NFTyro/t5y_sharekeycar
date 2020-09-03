@@ -5,7 +5,8 @@
 --********************************************************************
 --FiveM: https://forum.fivem.net/u/tahayavuuz
 --Github: https://github.com/tahayavuuz
---Discord: Taha Yavuz#0037
+--Discord: Tyro#9999
+--Discord Server: https://discord.gg/AsEkThT
 
 
 server_script {
